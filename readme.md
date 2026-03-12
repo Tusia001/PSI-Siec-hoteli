@@ -126,4 +126,3 @@ Celem projektu jest:
 
 ---
 
-# Struktura repozytorium
